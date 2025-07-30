@@ -23,8 +23,6 @@ Welcome to my GitHub! I'm a passionate developer who loves turning ideas into in
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 **Languages & Scripting:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
